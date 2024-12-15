@@ -1,0 +1,39 @@
+.product-button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border: 3px solid #332e2e;
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+  position: relative;
+  background-color: white;
+  width: 240px;
+}
+
+.product-button button {
+  background-color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: left;
+  flex-grow: 1;
+  padding: 0;
+}
+
+.product-button div {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}
