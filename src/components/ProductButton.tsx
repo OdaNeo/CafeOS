@@ -1,5 +1,5 @@
 import React from "react";
-import "./ProductButton.css";
+import "../css/ProductButton.css";
 
 type ProductButtonProps = {
   id: string;
