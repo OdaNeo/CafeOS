@@ -1,5 +1,5 @@
 import React from "react";
-import "./Summary.css";
+import "../css/Summary.css";
 
 type SummaryProps = {
   totalCount: number;
