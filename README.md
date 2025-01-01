@@ -21,11 +21,3 @@
    ```
 
 ![Logo](./public/demo.png)
-
-
-
-
-teesets
-
-
-test rebase
